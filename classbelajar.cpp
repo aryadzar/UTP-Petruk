@@ -205,4 +205,51 @@ int main() {
 //     } else {
 //         return fib(n-2) + fib(n-1);
 //     }
+// // }
+// #include <iostream>
+
+// using namespace std;
+
+// int main(){
+//     // char name[15], npm[10];
+
+//     // cin.get(name,15);
+//     // cin.ignore();
+//     // cin.get(npm,10);
+
+//     // cout << name << " " << npm << endl;
+
+//     // char karakter;
+//     // while (cin.get(karakter)){
+//     //     if (karakter == 'a')
+//     //         cin.putback('x');
+//     //     else 
+//     //         cout<<karakter;
+
+//     // }
+
+//     // char str[] = {'i','k','l','o','p','o','l','\0'};
+
+//     // cout<<str<<endl;
+//     // cout<<strlen(str)<<endl;
+//     // return 0;
+
+//     // char firstname[50] = "Muhammad Arya Dzaky";
+//     // char lastname[50] = " Arenanto";
+//     // char *fullname = strcat(firstname,lastname);
+//     // cout << fullname << endl;
+
+//     char *endptr;
+//     char str1[] = "12321232Aryan";
+//     // long value = strtol(str1, &endptr, 10);
+//     long value = strtod(str1 , &endptr);
+//     cout<<value<<endl;
+//     cout<<endptr<<endl;
+
+//     return 0;
+
 // }
+
+
+
+
